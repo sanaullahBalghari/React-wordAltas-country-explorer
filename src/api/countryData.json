@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 125800000,
+    "interestingFact": "Japan has more pets than children."
+  },
+  {
+    "id": 2,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 25690000,
+    "interestingFact": "Australia is home to 21 of the world’s 25 most venomous snakes."
+  },
+  {
+    "id": 3,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": 39000000,
+    "interestingFact": "Canada has the longest coastline in the world."
+  },
+  {
+    "id": 4,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": 214300000,
+    "interestingFact": "The Amazon rainforest produces 20% of the world's oxygen."
+  },
+  {
+    "id": 5,
+    "countryName": "Norway",
+    "capital": "Oslo",
+    "population": 5400000,
+    "interestingFact": "Norway introduced salmon sushi to Japan."
+  },
+  {
+    "id": 6,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1428000000,
+    "interestingFact": "India is the world’s largest democracy."
+  },
+  {
+    "id": 7,
+    "countryName": "Iceland",
+    "capital": "Reykjavík",
+    "population": 376000,
+    "interestingFact": "Iceland has no mosquitoes."
+  },
+  {
+    "id": 8,
+    "countryName": "Russia",
+    "capital": "Moscow",
+    "population": 144400000,
+    "interestingFact": "Russia spans 11 time zones."
+  },
+  {
+    "id": 9,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": 111000000,
+    "interestingFact": "Ancient Egyptians invented the 365-day calendar."
+  },
+  {
+    "id": 10,
+    "countryName": "Switzerland",
+    "capital": "Bern",
+    "population": 8900000,
+    "interestingFact": "Switzerland has not been in a war since 1815."
+  },
+    {
+    "id": 11,
+    "countryName": "Pakistan",
+    "capital": "Islamabad",
+    "population": 241500000,
+    "interestingFact": "Pakistan is home to the world’s second-highest mountain, K2."
+  },
+  {
+    "id": 12,
+    "countryName": "New Zealand",
+    "capital": "Wellington",
+    "population": 5300000,
+    "interestingFact": "New Zealand was the first country to give women the right to vote in 1893."
+  }
+
+]
